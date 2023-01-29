@@ -14,3 +14,12 @@ We guard with care, we train and learn,
 To keep our Git repos free from harm.
 With strong passwords, patches, and more,
 We fortify our code and keep the score.
+
+In Git's world, where code does reign,
+A mythical creature does remain.
+The unicorn, with magic grace,
+Brings joy to code, in this sacred place.
+Its shimmering horn, a symbol bright,
+Of beauty, peace, and coding might.
+Together, Git and unicorns unite,
+A partnership of power, beauty, and light.
