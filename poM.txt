@@ -4,3 +4,5 @@ In training we learn its ways,
 To merge, branch, and track our days.
 Git, our project's backbone strong,
 Guides us through the code all day long.
+With each commit, we grow wise,
+Our code, secure, before our eyes.
