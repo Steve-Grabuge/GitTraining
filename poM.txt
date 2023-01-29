@@ -6,3 +6,11 @@ Git, our project's backbone strong,
 Guides us through the code all day long.
 With each commit, we grow wise,
 Our code, secure, before our eyes.
+Cyber threats loom large and near,
+Git, too, is not immune to fear.
+Hackers seek to exploit and steal,
+Our code, our work, our every ideal.
+We guard with care, we train and learn,
+To keep our Git repos free from harm.
+With strong passwords, patches, and more,
+We fortify our code and keep the score.
