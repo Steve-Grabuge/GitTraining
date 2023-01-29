@@ -10,3 +10,7 @@ Cyber threats loom large and near,
 Git, too, is not immune to fear.
 Hackers seek to exploit and steal,
 Our code, our work, our every ideal.
+We guard with care, we train and learn,
+To keep our Git repos free from harm.
+With strong passwords, patches, and more,
+We fortify our code and keep the score.
