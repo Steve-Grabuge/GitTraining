@@ -1,0 +1,6 @@
+Git, a tool for version control,
+Tracks changes, makes life whole.
+In training we learn its ways,
+To merge, branch, and track our days.
+Git, our project's backbone strong,
+Guides us through the code all day long.
